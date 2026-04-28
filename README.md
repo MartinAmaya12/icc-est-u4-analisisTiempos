@@ -1,18 +1,11 @@
-## Getting Started
+## Práctica 1.4 Analisis de tiempos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- **Nombre:** Renato Martin Amaya Siguenza
+- **Curso:** grupo 3
+- **Fecha:** 27/04/2026
 
-## Folder Structure
+## Evidencia
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Descripción:**
+Desarrollé Y creé una carpeta con un archivo que contiene los metodos burbuja y burbuja avanzado en el cual se evalua el tiempo de ejecucion de una cantidad de numeros, y cuanto se tarda en ejecutar dichos numeros.
